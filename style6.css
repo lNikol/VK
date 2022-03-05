@@ -1,0 +1,370 @@
+html{
+font-family:Century Gothic;
+}
+
+.leftmenu{
+margin-top:10px;
+margin-left: 100px;
+height:400px;
+width:150px;
+
+}
+.leftmenu a{
+text-decoration:none;
+color: #275372;
+}
+.leftmenu a:hover{
+color: yellow;
+}
+#color{
+	color:#d7e2ec;
+	margin-left:5px;
+}
+
+.textchats{
+margin-top:10px;
+margin-left:30px;
+height:800px;
+width:700px;
+background-color:lightgrey;
+}
+
+.pygol{
+width: 685px;
+height: 50px;
+background-color:silver;
+margin-left:20px;
+display:flex;
+}
+
+.pygol a{
+color: black;
+text-decoration:none;
+}
+.pygol a:hover{
+color: red;
+}
+
+.kryg{
+margin-top:6px;
+width: 45px;
+height: 40px;
+border: 1px gray solid;
+border-radius: 60px;
+}
+
+.text{
+width: 500px;
+height: 38px;
+margin-top:8px;
+margin-left: 250px;
+display:flex;
+text-align: center;
+padding-top:10px;
+}
+
+
+#text{
+width: 680px;
+height: 800px;
+margin-top:8px;
+text-align: left;
+padding-top:3px;
+margin-left:20px;
+background-color:white;
+padding-left:5px;
+}
+#pygol{
+width: 670px;
+height: 65px;
+background-color:white;
+margin-top: 10px;
+margin-bottom:20px;
+display:flex;
+padding-left: 10px;
+text-align: center;
+}
+#kryg{
+margin-top:6px;
+width: 50px;
+height: 50px;
+border: 1px white solid;
+border-radius: 60px;
+margin-right:4px;
+}
+
+#strelka{
+width: 20px;
+height: 20px;
+margin-left: 20px;
+margin-top: 20px;
+}
+
+#rightmenu{
+height:59px;
+width:140px;
+background-color:red;
+margin-top: 10px;
+padding: 0;
+list-style-type: none;
+margin-left:10px;
+}
+
+#rightmenu a{
+background-color:white;
+color:black;
+text-decoration:none;
+font-weight: bold;
+display:block;
+}
+#rightmenu a:hover{
+	background-color:gray;
+	border-left: 3px blue solid;
+}
+.vk{
+width:50px;
+height:50px;
+background-color:#2a5885;
+margin-left:30px;
+}
+
+.pystota{
+width:305px;
+height:50px;
+background-color:#2a5885;
+}
+
+.yvedom{
+width:50px;
+height:50px;
+background-color:#2a5885;
+margin-right:30px;
+}
+
+.track{
+margin-top:20px;
+width:310px;
+height:42px;
+display:flex;
+margin-right:155px;
+}
+a{
+color: black;
+text-decoration:none;
+}
+a:hover{
+color: red;
+}
+.menu{
+height:62px;
+width:1280px;
+background-color:#2a5885;
+display:flex;
+margin: auto auto;
+}
+
+.page{
+width: 1280px;
+height: 1024px;
+background-color:LightGray;
+display:flex;
+margin: auto auto;
+}
+
+.mypage{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.news{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.posts{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.friends{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.community{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.photos{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.music{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.video{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.games{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.poloska{
+width:116px;
+height:1px;
+background-color: gray;
+margin-top:10px;
+margin-bottom: 5px;
+}
+.poloskal{
+width:507px;
+height:1px;
+background-color: gray;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+.goods{
+margin-top:10px;
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.bookmarks{
+width:150px;
+height:28px;
+margin-top:5px;
+color:#275372;
+}
+
+.documents{
+width:150px;
+height:28px;
+color:#275372;
+}
+#button{
+margin-top:10px;
+text-align: center;
+border-radius: 4px;
+padding-left:150px;
+padding-right:150px;
+padding-bottom:4px;
+background-color:white;
+color:#55677d;
+}
+.button{
+margin-top:10px;
+text-align: center;
+border-radius: 4px;
+margin-left:35px;
+padding-bottom:4px;
+background-color:#e5ebf1;
+color:#55677d;
+}
+.myguests{
+margin-top:10px;
+width:150px;
+height:28px;
+color:#275372;
+}
+
+.avatar{
+width:50px;
+height:50px;
+margin-left:10px;
+}
+#profile{
+margin-left: 30px;
+width:850px;
+height:900px;
+background-color:lightgrey;
+display:flex;
+}
+#profile2{
+border-radius:4px;
+margin-left: 30px;
+width:270px;
+height:310px;
+background-color:white;
+padding-left:5px;
+margin-top:20px;
+padding-top:30px;
+margin-left:10px;
+}
+#profile3{
+margin-left: 30px;
+border-radius:4px;
+width:520px;
+height:315px;
+background-color:white;
+padding-left:10px;
+margin-top:20px;
+padding-top:30px;
+margin-left:20px;
+}
+
+#pp{
+margin-left:30px;
+}
+.p{
+text-align:center;
+}
+#cfriend{
+font-size: 16px;
+color: #42648b;
+text-align:center;
+margin-left:30px;
+}
+#p1{
+line-height:0.5px;
+color:black;
+}
+.tablo{
+width:510px;
+height:65px;
+background-color:white;
+display:flex;
+
+}
+#strelka{
+width: 30px;
+height: 30px;
+margin-bottom:5px;
+}
+#ava{
+margin-left: 30px;
+width:200px;
+height:200px;
+background-color:red;
+}
+.textt{
+width:50px;
+height:20px;
+}
